@@ -10,7 +10,7 @@ go get github.com/ivn-ln/go-tgbot-handler
 
 Example of a simple bot with a /help command and a plaintext handler.
 
-```
+```go
 package main
 
 import (
