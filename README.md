@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-go get https://github.com/ivn-ln/go-tgbot-handler
+go get github.com/ivn-ln/go-tgbot-handler
 ```
 
 
